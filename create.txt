@@ -1,0 +1,14 @@
+hahaha
+wp
+:q
+:w
+:wq
+:wq
+:q
+:q
+hieudcu<cr>
+:wq
+sudo vi path_to_file/
+$cd ~
+sudo -i
+:q!
